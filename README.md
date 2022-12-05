@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackson-hidley
-- 👀 I’m interested in cyber security and artificial intelligence. 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in cyber security and embedded software engineering
 - 📫 Email: Jackson.Hidley@gmail.coom
 
 <!---
